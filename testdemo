@@ -1,0 +1,5 @@
+first demo sample
+given the login page is active
+then enter valid credential.
+and click on login button
+home page should be displayed.
